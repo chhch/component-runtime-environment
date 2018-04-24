@@ -1,0 +1,12 @@
+[submodule "cre-commons"]
+	path = cre-commons
+	url = https://github.com/chhch/cre-commons
+[submodule "cre-component-runtime"]
+	path = cre-component-runtime
+	url = https://github.com/chhch/cre-component-runtime
+[submodule "cre-components"]
+	path = cre-components
+	url = https://github.com/chhch/cre-components
+[submodule "cre-web"]
+	path = cre-web
+	url = https://github.com/chhch/cre-web

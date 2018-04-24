@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/componentComposition/componentComposition.iml" filepath="$PROJECT_DIR$/.idea/modules/componentComposition/componentComposition.iml" group="componentComposition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/componentComposition/componentComposition_main.iml" filepath="$PROJECT_DIR$/.idea/modules/componentComposition/componentComposition_main.iml" group="componentComposition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/componentComposition/componentComposition_test.iml" filepath="$PROJECT_DIR$/.idea/modules/componentComposition/componentComposition_test.iml" group="componentComposition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/componentWithScope/componentWithScope.iml" filepath="$PROJECT_DIR$/.idea/modules/componentWithScope/componentWithScope.iml" group="componentWithScope" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/componentWithScope/componentWithScope_main.iml" filepath="$PROJECT_DIR$/.idea/modules/componentWithScope/componentWithScope_main.iml" group="componentWithScope" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/componentWithScope/componentWithScope_test.iml" filepath="$PROJECT_DIR$/.idea/modules/componentWithScope/componentWithScope_test.iml" group="componentWithScope" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-commons.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-commons_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-commons_main.iml" group="cre-commons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-commons_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-commons_test.iml" group="cre-commons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-component-runtime.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-component-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-component-runtime_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-component-runtime_main.iml" group="cre-component-runtime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-component-runtime_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-component-runtime_test.iml" group="cre-component-runtime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-components.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cre-web.iml" filepath="$PROJECT_DIR$/.idea/modules/cre-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customEventReceiverComponent/customEventReceiverComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/customEventReceiverComponent/customEventReceiverComponent.iml" group="customEventReceiverComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customEventReceiverComponent/customEventReceiverComponent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/customEventReceiverComponent/customEventReceiverComponent_main.iml" group="customEventReceiverComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customEventReceiverComponent/customEventReceiverComponent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/customEventReceiverComponent/customEventReceiverComponent_test.iml" group="customEventReceiverComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customEventSenderComponent/customEventSenderComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/customEventSenderComponent/customEventSenderComponent.iml" group="customEventSenderComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customEventSenderComponent/customEventSenderComponent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/customEventSenderComponent/customEventSenderComponent_main.iml" group="customEventSenderComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customEventSenderComponent/customEventSenderComponent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/customEventSenderComponent/customEventSenderComponent_test.iml" group="customEventSenderComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloComponent/helloComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/helloComponent/helloComponent.iml" group="helloComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloComponentWithLogger/helloComponentWithLogger.iml" filepath="$PROJECT_DIR$/.idea/modules/helloComponentWithLogger/helloComponentWithLogger.iml" group="helloComponentWithLogger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloComponentWithLogger/helloComponentWithLogger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloComponentWithLogger/helloComponentWithLogger_main.iml" group="helloComponentWithLogger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloComponentWithLogger/helloComponentWithLogger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloComponentWithLogger/helloComponentWithLogger_test.iml" group="helloComponentWithLogger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloComponent/helloComponent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloComponent/helloComponent_main.iml" group="helloComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloComponent/helloComponent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloComponent/helloComponent_test.iml" group="helloComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pingComponent/pingComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/pingComponent/pingComponent.iml" group="pingComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pingComponent/pingComponent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pingComponent/pingComponent_main.iml" group="pingComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pingComponent/pingComponent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pingComponent/pingComponent_test.iml" group="pingComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pongComponent/pongComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/pongComponent/pongComponent.iml" group="pongComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pongComponent/pongComponent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pongComponent/pongComponent_main.iml" group="pongComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pongComponent/pongComponent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pongComponent/pongComponent_test.iml" group="pongComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server.iml" group="server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" group="server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" group="server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>

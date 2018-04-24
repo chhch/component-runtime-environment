@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name=".._commons_main" target="1.8" />
+      <module name=".._commons_test" target="1.8" />
+      <module name="base_main" target="1.8" />
+      <module name="base_test" target="1.8" />
+      <module name="client_main" target="1.8" />
+      <module name="client_test" target="1.8" />
+      <module name="commons_main" target="1.8" />
+      <module name="commons_test" target="1.8" />
+      <module name="component-runtime_main" target="1.8" />
+      <module name="component-runtime_test" target="1.8" />
+      <module name="componentComposition_main" target="1.8" />
+      <module name="componentComposition_test" target="1.8" />
+      <module name="components_main" target="1.8" />
+      <module name="components_test" target="1.8" />
+      <module name="componentWithScope_main" target="1.8" />
+      <module name="componentWithScope_test" target="1.8" />
+      <module name="cre-commons_main" target="1.8" />
+      <module name="cre-commons_test" target="1.8" />
+      <module name="cre-component-runtime_main" target="1.8" />
+      <module name="cre-component-runtime_test" target="1.8" />
+      <module name="customEventReceiverComponent_main" target="1.8" />
+      <module name="customEventReceiverComponent_test" target="1.8" />
+      <module name="CustomEventSenderComponent_main" target="1.8" />
+      <module name="customEventSenderComponent_main" target="1.8" />
+      <module name="customEventSenderComponent_test" target="1.8" />
+      <module name="CustomEventSenderComponent_test" target="1.8" />
+      <module name="events_main" target="1.8" />
+      <module name="events_test" target="1.8" />
+      <module name="hello_main" target="1.8" />
+      <module name="hello_test" target="1.8" />
+      <module name="helloComponent_main" target="1.8" />
+      <module name="helloComponent_test" target="1.8" />
+      <module name="helloComponentWithLogger_main" target="1.8" />
+      <module name="helloComponentWithLogger_test" target="1.8" />
+      <module name="PingComponent_main" target="1.8" />
+      <module name="pingComponent_main" target="1.8" />
+      <module name="pingComponent_test" target="1.8" />
+      <module name="PingComponent_test" target="1.8" />
+      <module name="PongComponent_main" target="1.8" />
+      <module name="pongComponent_main" target="1.8" />
+      <module name="pongComponent_test" target="1.8" />
+      <module name="PongComponent_test" target="1.8" />
+      <module name="server_main" target="1.8" />
+      <module name="server_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+      <module name="web_main" target="1.8" />
+      <module name="web_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
